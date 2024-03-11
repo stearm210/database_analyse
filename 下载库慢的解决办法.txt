@@ -1,0 +1,2 @@
+python -m pip install scikit-learn  -i https://pypi.tuna.tsinghua.edu.cn/simple
+将scikit-learn改成你想下载的任意库
